@@ -1,0 +1,25 @@
+imbalance_technique,estimator,metric,y,mean,std
+None,Random Forest,weighted_score_9_rec,y_1,0.9916325651107722,0.0009292318827144064
+None,Random Forest,weighted_score_9_rec,y_2,0.06492593164553456,0.011667348436054482
+None,Random Forest,weighted_score_9_rec,y_3,0.09108333333333334,0.023371870232863655
+None,Random Forest,weighted_score_9_rec,y_4,0.010757575757575757,0.02151515151515151
+None,Random Forest,weighted_score_9_rec,y_5,0.013958333333333333,0.02816432436020198
+None,Random Forest,weighted_score_9_rec,y_6,0.021666666666666667,0.04475240527365851
+SMOTE,Random Forest,weighted_score_9_rec,y_1,0.9707263798316237,0.0042249755902179845
+SMOTE,Random Forest,weighted_score_9_rec,y_2,0.16914968584737594,0.012749175155117662
+SMOTE,Random Forest,weighted_score_9_rec,y_3,0.09447346856360014,0.022119658156889016
+SMOTE,Random Forest,weighted_score_9_rec,y_4,0.07644249051601994,0.04037306774020026
+SMOTE,Random Forest,weighted_score_9_rec,y_5,0.05624005161505162,0.04919368176859267
+SMOTE,Random Forest,weighted_score_9_rec,y_6,0.04392857142857143,0.054630925141895686
+RandomUnderSampling,Random Forest,weighted_score_9_rec,y_1,0.568732997758084,0.0197093967661115
+RandomUnderSampling,Random Forest,weighted_score_9_rec,y_2,0.4943574155849621,0.01667559299389919
+RandomUnderSampling,Random Forest,weighted_score_9_rec,y_3,0.49007493727962226,0.048227747512636455
+RandomUnderSampling,Random Forest,weighted_score_9_rec,y_4,0.49566171405492626,0.06591429422644829
+RandomUnderSampling,Random Forest,weighted_score_9_rec,y_5,0.4884460661470982,0.08276130181319785
+RandomUnderSampling,Random Forest,weighted_score_9_rec,y_6,0.451520425309924,0.08084635254258254
+SMOTEENN,Random Forest,weighted_score_9_rec,y_1,0.9312655777548777,0.0037225367415597613
+SMOTEENN,Random Forest,weighted_score_9_rec,y_2,0.5333632750361549,0.012956968801155056
+SMOTEENN,Random Forest,weighted_score_9_rec,y_3,0.1140911283948531,0.025710080027989805
+SMOTEENN,Random Forest,weighted_score_9_rec,y_4,0.09766641631571596,0.04376240809043854
+SMOTEENN,Random Forest,weighted_score_9_rec,y_5,0.06558606882248187,0.04204908019547319
+SMOTEENN,Random Forest,weighted_score_9_rec,y_6,0.06797054579407522,0.058017549575437095
